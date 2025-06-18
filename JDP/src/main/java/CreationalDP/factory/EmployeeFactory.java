@@ -1,4 +1,4 @@
-package factory;
+package CreationalDP.factory;
 
 public class EmployeeFactory {
 

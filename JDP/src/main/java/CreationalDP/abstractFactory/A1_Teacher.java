@@ -1,4 +1,4 @@
-package abstractFactory;
+package CreationalDP.abstractFactory;
 
 public abstract class A1_Teacher {
     String name;

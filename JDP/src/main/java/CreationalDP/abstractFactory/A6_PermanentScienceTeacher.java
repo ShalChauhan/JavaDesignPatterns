@@ -1,8 +1,8 @@
-package abstractFactory;
+package CreationalDP.abstractFactory;
 
-public class A5_PermanentMathTeacher extends A1_Teacher {
+public class A6_PermanentScienceTeacher extends A1_Teacher {
 
-    public A5_PermanentMathTeacher(String name, String subject){
+    public A6_PermanentScienceTeacher(String name, String subject){
         this.name=name;
         this.subject=subject;
     }

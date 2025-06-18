@@ -1,4 +1,4 @@
-package observerDP;
+package BehavioralDP.observer;
 
 public class NewsChannel implements Observer{
 

@@ -1,4 +1,4 @@
-package observerDP;
+package BehavioralDP.observer;
 
 import java.util.ArrayList;
 import java.util.List;

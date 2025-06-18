@@ -1,4 +1,4 @@
-package abstractFactory;
+package CreationalDP.abstractFactory;
 
 public class A3_TraineeScienceTeacher extends A1_Teacher {
 

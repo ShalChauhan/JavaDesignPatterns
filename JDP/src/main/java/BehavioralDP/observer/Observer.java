@@ -1,4 +1,4 @@
-package observerDP;
+package BehavioralDP.observer;
 
 public interface Observer {
     void update(String message);

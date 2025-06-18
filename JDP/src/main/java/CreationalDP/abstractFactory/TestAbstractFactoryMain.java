@@ -1,4 +1,4 @@
-package abstractFactory;
+package CreationalDP.abstractFactory;
 
 public class TestAbstractFactoryMain {
     public static void main(String ar[]){
